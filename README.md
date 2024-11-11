@@ -11,7 +11,7 @@ By visualizing this data, I aimed to bring clarity to trends and compensation st
 
 - [**Power BI Dashboard Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Data-Eng-Dashboard.pdf)
 - [**Python EDA PDF**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/data-engineer-salary-eda.ipynb)
-- [**Dataset Link**:](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
+- [**Dataset Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
 
 ## **Data Structure**
 This dataset contains job-related information for roles in the field of data engineering, with a focus on salary, employment type, remote work ratio, and company characteristics. With over 15,000 rows of data, the dataset provides insights into compensation trends, work preferences, and company-related factors that influence data engineering roles. It can be used to analyze trends in salary based on experience, job title, location, and remote work arrangements.
@@ -31,7 +31,7 @@ This dataset contains job-related information for roles in the field of data eng
 - **salary_in_usd**: The employee's salary converted into USD.
 - **work_year**: The year the data was recorded.
 
-- [**Dataset Link**:](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
+- [**Dataset Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
 
 ## **Executive Summary**
 ![Home](https://github.com/NishaChandila/project-assets/blob/main/data-eng1.PNG)
@@ -72,4 +72,4 @@ The analysis provides valuable insights into the compensation landscape for data
 
 - [**Power BI Dashboard Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Data-Eng-Dashboard.pdf)
 - [**Python EDA PDF**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/data-engineer-salary-eda.ipynb)
-- [**Dataset Link**:](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
+- [**Dataset Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
