@@ -9,9 +9,9 @@ Following the initial analysis, I created an interactive Power BI dashboard to p
 
 By visualizing this data, I aimed to bring clarity to trends and compensation structures in the data engineering job market, helping stakeholders make strategic decisions related to hiring, compensation policies, and remote work structures.
 
-- [**Power BI Dashboard Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Data-Eng-Dashboard.pdf)
-- [**Python EDA PDF**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/data-engineer-salary-eda.ipynb)
-- [**Dataset Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
+- Tech Salary [**Power BI Dashboard**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Data-Eng-Dashboard.pdf)
+- Tech Salary [**Python EDA PDF**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/data-engineer-salary-eda.ipynb)
+- Tech Salary [**Dataset**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
 
 ## **Data Structure**
 This dataset contains job-related information for roles in the field of data engineering, with a focus on salary, employment type, remote work ratio, and company characteristics. With over 15,000 rows of data, the dataset provides insights into compensation trends, work preferences, and company-related factors that influence data engineering roles. It can be used to analyze trends in salary based on experience, job title, location, and remote work arrangements.
@@ -31,7 +31,7 @@ This dataset contains job-related information for roles in the field of data eng
 - **salary_in_usd**: The employee's salary converted into USD.
 - **work_year**: The year the data was recorded.
 
-- [**Dataset Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
+- Tech Salary [**Dataset*](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
 
 ## **Executive Summary**
 ![Home](https://github.com/NishaChandila/project-assets/blob/main/data-eng1.PNG)
@@ -52,12 +52,12 @@ This Power BI dashboard offers key insights into data engineering compensation t
 - **Employment Type Distribution**: Full-time roles dominate with the highest salaries. Part-time and contract roles are less common but typically come with lower pay.
 - **Company Size and Employment Distribution**: Larger companies (M and L) offer better salaries and more remote work options compared to smaller companies. These insights help evaluate competitive compensation and work flexibility strategies across company sizes.
 
-- [**Power BI Dashboard Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Data-Eng-Dashboard.pdf)
+- Tech Salary [**Power BI Dashboard**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Data-Eng-Dashboard.pdf)
 
 ## **EDA and Data Cleaning**
 In the exploratory data analysis (EDA) phase, I performed essential data cleaning to ensure the dataset was well-prepared for further analysis. I analyzed the average salary by job title, company location, and company size to identify salary trends and patterns across different roles and regions. Additionally, I examined salary trends over the years to observe any shifts or growth in compensation over time. Using Python, I generated key insights on these variables and translated them into a Power BI dashboard. This dashboard was designed with non-technical stakeholders in mind, providing clear, visual insights that help them easily understand the data and make informed decisions based on salary trends, company size, and location-specific compensation data.
 
-- [**Python EDA PDF**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/data-engineer-salary-eda.ipynb)
+- Tech Salary [**Python EDA PDF**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/data-engineer-salary-eda.ipynb)
 
 ## **Recommendations**
 1. **Competitive Compensation**: Revise salary strategies, especially for medium and small-sized companies, to stay competitive with larger firms, particularly in data engineering roles.
@@ -70,6 +70,6 @@ In the exploratory data analysis (EDA) phase, I performed essential data cleanin
 ## **Conclusion**
 The analysis provides valuable insights into the compensation landscape for data engineers, highlighting the importance of competitive salary packages, senior role retention, and flexibility in work arrangements. By aligning company policies with these insights, organizations can attract and retain top talent, ensuring long-term success in a competitive job market.
 
-- [**Power BI Dashboard Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Data-Eng-Dashboard.pdf)
-- [**Python EDA PDF**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/data-engineer-salary-eda.ipynb)
-- [**Dataset Link**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
+- Tech Salary [**Power BI Dashboard**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Data-Eng-Dashboard.pdf)
+- Tech Salary [**Python EDA PDF**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/data-engineer-salary-eda.ipynb)
+- Tech Salary [**Dataset**](https://github.com/NishaChandila/Data-Engineer-Salay-EDA-/blob/main/Dataset%20salary%202024.csv)
